@@ -1,0 +1,5 @@
+install [OPTION]... SOURCE DEST
+install [OPTION]... SOURCE... DIRECTORY 
+install [OPTION]... -t DIRECTORY SOURCE
+install [OPTION]... -d DIRECTORY
+install -D /source/folder/*.py /destination/folder
